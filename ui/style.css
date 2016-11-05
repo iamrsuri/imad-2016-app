@@ -22,5 +22,5 @@ body {
     height: 200px;
 }
 .verticalLine {
-    border-left: thick solid #ffffff;
+    border-right: thick solid #ffffff;
 }
