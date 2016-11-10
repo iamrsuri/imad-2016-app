@@ -20,5 +20,8 @@ body {
 .img-medium {
     height: 200px;
 }
-.vertical_line{height:200px; width:10px;background:#000;
+.vertical_line {
+    height:200px;
+    width:10px;
+    background:#000;
 }
