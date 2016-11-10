@@ -20,8 +20,6 @@ body {
 .img-medium {
     height: 200px;
 }
-.horizontal_line {
-    
-    width:10px;
-    background:#000;
+u {
+    text-decoration: underline;
 }
